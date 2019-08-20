@@ -1,0 +1,1 @@
+Git pronuncia-se /git/ (ou pronuncia-se /djit/ em inglês britânico) é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento.
